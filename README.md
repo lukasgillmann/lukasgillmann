@@ -6,6 +6,8 @@ Welcome to my GitHub profile! With +20 years of rich experience, I'm a passionat
 
 ## 🛠️ Tech Stack
 
+### Generative AI
+
 ### Backend Development
 - **Languages**: Go (Golang), Node.js, Python  
 - **Frameworks**: Express, FastAPI, Fiber, Gin  
